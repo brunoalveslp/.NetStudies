@@ -1,0 +1,11 @@
+C:\Users\bruno\Source\Repos\aumentarSalario\aumentarSalario\bin\Debug\netcoreapp3.1\aumentarSalario.exe
+C:\Users\bruno\Source\Repos\aumentarSalario\aumentarSalario\bin\Debug\netcoreapp3.1\aumentarSalario.deps.json
+C:\Users\bruno\Source\Repos\aumentarSalario\aumentarSalario\bin\Debug\netcoreapp3.1\aumentarSalario.runtimeconfig.json
+C:\Users\bruno\Source\Repos\aumentarSalario\aumentarSalario\bin\Debug\netcoreapp3.1\aumentarSalario.runtimeconfig.dev.json
+C:\Users\bruno\Source\Repos\aumentarSalario\aumentarSalario\bin\Debug\netcoreapp3.1\aumentarSalario.dll
+C:\Users\bruno\Source\Repos\aumentarSalario\aumentarSalario\bin\Debug\netcoreapp3.1\aumentarSalario.pdb
+C:\Users\bruno\Source\Repos\aumentarSalario\aumentarSalario\obj\Debug\netcoreapp3.1\aumentarSalario.csprojAssemblyReference.cache
+C:\Users\bruno\Source\Repos\aumentarSalario\aumentarSalario\obj\Debug\netcoreapp3.1\aumentarSalario.AssemblyInfoInputs.cache
+C:\Users\bruno\Source\Repos\aumentarSalario\aumentarSalario\obj\Debug\netcoreapp3.1\aumentarSalario.AssemblyInfo.cs
+C:\Users\bruno\Source\Repos\aumentarSalario\aumentarSalario\obj\Debug\netcoreapp3.1\aumentarSalario.dll
+C:\Users\bruno\Source\Repos\aumentarSalario\aumentarSalario\obj\Debug\netcoreapp3.1\aumentarSalario.pdb

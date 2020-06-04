@@ -1,0 +1,11 @@
+C:\Users\bruno\Source\Repos\dolar\dolar\bin\Debug\netcoreapp3.1\dolar.exe
+C:\Users\bruno\Source\Repos\dolar\dolar\bin\Debug\netcoreapp3.1\dolar.deps.json
+C:\Users\bruno\Source\Repos\dolar\dolar\bin\Debug\netcoreapp3.1\dolar.runtimeconfig.json
+C:\Users\bruno\Source\Repos\dolar\dolar\bin\Debug\netcoreapp3.1\dolar.runtimeconfig.dev.json
+C:\Users\bruno\Source\Repos\dolar\dolar\bin\Debug\netcoreapp3.1\dolar.dll
+C:\Users\bruno\Source\Repos\dolar\dolar\bin\Debug\netcoreapp3.1\dolar.pdb
+C:\Users\bruno\Source\Repos\dolar\dolar\obj\Debug\netcoreapp3.1\dolar.csprojAssemblyReference.cache
+C:\Users\bruno\Source\Repos\dolar\dolar\obj\Debug\netcoreapp3.1\dolar.AssemblyInfoInputs.cache
+C:\Users\bruno\Source\Repos\dolar\dolar\obj\Debug\netcoreapp3.1\dolar.AssemblyInfo.cs
+C:\Users\bruno\Source\Repos\dolar\dolar\obj\Debug\netcoreapp3.1\dolar.dll
+C:\Users\bruno\Source\Repos\dolar\dolar\obj\Debug\netcoreapp3.1\dolar.pdb
