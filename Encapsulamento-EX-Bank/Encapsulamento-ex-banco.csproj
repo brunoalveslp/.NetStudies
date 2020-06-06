@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Encapsulamento_ex_banco</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\bruno\Documents\GitHub\.NetStudies\Encapsulamento-EX-Bank\Accounts.cs" Link="Accounts.cs" />
+    <Compile Include="C:\Users\bruno\Documents\GitHub\.NetStudies\Encapsulamento-EX-Bank\Program.cs" Link="Program.cs" />
+  </ItemGroup>
+
+</Project>
